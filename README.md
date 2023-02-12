@@ -27,6 +27,10 @@ git clone https://github.com/JokeDev5555/school.git
 - ไฟล์ total.html คือไฟล์ที่เเบ่งเฟรมของ Web Page
 - ไฟล์ index.html คือไฟล์หน้า Web Page เป็นงานเเรกที่อาจารย์สอน
 ```
-
-## Suphapong Developer
-### Discord : [WittyStory Studio](https://discord.gg/xetta7tY34)
+### จัดทำโดย
+```
+- นาย ศุภพงศ์ มีเเสง ชื่อเล่น เบสท์
+- ชั้มมัธยมศึกษาปีที่ 3 ห้อง 5 เลขที่ 16
+- เป็นการเรียนรู้ในภาคเรียนที่ 2 ปี 2565
+- วิชา คอมพิวเตอร์ เรื่องการสร้างสรรค์ Web Page โดยใช้ภาษา html โรงเรียนตาคลีประชาสรรค์
+```
